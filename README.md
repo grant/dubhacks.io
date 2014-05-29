@@ -14,4 +14,9 @@ node app
 - Jade
 - Stylus
 
-## TODO: Use Github Pages
+## TODO:
+- Use Github Pages
+- Create color palete
+- Create logo
+- Create sponsorship page
+- Setup DNS
